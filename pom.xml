@@ -21,5 +21,6 @@
         <module>FirstMvc</module>
         <module>UploadFile</module>
         <module>Securing</module>
+        <module>FirstMybatis</module>
     </modules>
 </project>
